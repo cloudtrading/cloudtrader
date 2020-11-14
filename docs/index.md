@@ -1,4 +1,5 @@
 # CloudTrader
+Open source cloud trading software.
 
 ## Background
 I have been using my own private code to analyze financial market data and send trade alerts to myself.  I have given myself superhuman trading abilities and plan to share parts of my code over time as open source.
