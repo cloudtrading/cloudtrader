@@ -1,6 +1,3 @@
-# CloudTrader
-Open source cloud trading software.
-
 ## Mission
 Turning you into a superhuman trader.
 
