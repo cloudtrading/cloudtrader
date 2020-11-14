@@ -1,4 +1,4 @@
-## Mission
+# CloudTrader
 Turning you into a superhuman trader.
 
 ## Background
