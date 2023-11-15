@@ -1,6 +1,6 @@
 # CloudTrader
 
-![CloudTrader](https://www.cloudtrader.com/img/social/preview/open-graph.png)
+![CloudTrader](https://www.cloudtrader.com/img/social/github/header.png)
 
 CloudTrader will be a free service with two main parts.
 
