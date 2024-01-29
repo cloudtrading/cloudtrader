@@ -6,4 +6,4 @@
 
 I'll be running my own trading system using the open-source project in my personal AWS account. So, I'll be trading the markets and making money using the exact same tools that I'm providing to other traders.
 
-So, in short, CloudTrader will give you a private, reliable way to run your trading system. Meanwhile, Tickers will enable you to see markets in another dimension. And it's all free! Be sure to watch this repo for the first release of open-source CloudTrader and [join the Tickers waitlist](https://www.tickers.com) for early access.
+In short, CloudTrader will give you a private, reliable way to run your trading system. Meanwhile, Tickers will enable you to see markets in another dimension. And it's all free! Be sure to watch this repo for the first release of open-source CloudTrader and [join the Tickers waitlist](https://www.tickers.com) for early access.
